@@ -2,7 +2,7 @@
 using namespace std;
 
 void printName(){
-    cout<<"Rishabh"<<endl;
+    cout<<"Void means no return "<<endl;
 }
 
 int main(){
